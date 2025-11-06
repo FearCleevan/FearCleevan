@@ -1,25 +1,13 @@
 <h1 align="center">Hi 👋, I'm Peter Paul Abillar Lazan</h1>
-<h3 align="center">Hi! I’m Peter Paul Abillar Lazan, a Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I specialize in frontend development using React, Next.js, JavaScript, TypeScript, Tailwind CSS, SCSS, and Bootstrap, delivering clean interfaces and smooth user experiences. On the backend, I develop secure and scalable systems using Node.js, Express, Python, and PHP, with strong experience in MySQL, PostgreSQL, MongoDB, and Firebase. I design efficient APIs and database structures that help businesses streamline operations and grow their platforms. My goal is to build solutions that perform well, look great, and create real value for both clients and users.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fearcleevan&label=Profile%20views&color=0e75b6&style=flat" alt="fearcleevan" /> </p>
+<h3 align="justify">Hi! I’m Peter Paul Abillar Lazan, a Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I specialize in frontend development using React, Next.js, JavaScript, TypeScript, Tailwind CSS, SCSS, and Bootstrap, delivering clean interfaces and smooth user experiences. On the backend, I develop secure and scalable systems using Node.js, Express, Python, and PHP, with strong experience in MySQL, PostgreSQL, MongoDB, and Firebase. I design efficient APIs and database structures that help businesses streamline operations and grow their platforms. My goal is to build solutions that perform well, look great, and create real value for both clients and users.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearcleevan" alt="fearcleevan" /></a> </p>
 
-- 🔭 I’m currently working on [Automating School Operations: A Web-Based Management System](https://github.com/FearCleevan/school-manage-system.git)
-
-- 🌱 I’m currently learning **Advanced React Patterns, JavaScript, MySQL, and API Architecture**
-
 - 👨‍💻 All of my projects are available at [https://lazandev.vercel.app/](https://lazandev.vercel.app/)
-
-- 📝 I regularly write articles on [https://lazandev.vercel.app/blog](https://lazandev.vercel.app/blog)
-
-- 💬 Ask me about **React, Node.js, MySQL, and UI/UX improvements**
 
 - 📫 How to reach me **jonathan.mauring17@gmail.com**
 
 - 📄 Know about my experiences [https://lazandev.vercel.app/](https://lazandev.vercel.app/)
-
-- ⚡ Fun fact **Not funny at all!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
