@@ -110,11 +110,23 @@ Samson Polytechnic College of Davao · 2021 – 2025
 
 <div align="center">
 
-![Peter Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearCleevan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=d2a8ff&text_color=e6edf3)
+<!-- GitHub Stats - uses github-stats.vercel.app (more reliable) -->
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FearCleevan&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FearCleevan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FearCleevan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff)
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FearCleevan&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FearCleevan&theme=github_dark" />
+
+<br/>
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FearCleevan&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FearCleevan&theme=github_dark&utcOffset=8" />
+
+<br/>
+
+<!-- Streak Stats - demolab is the most stable streak provider -->
+<img src="https://streak-stats.demolab.com?user=FearCleevan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff" />
 
 </div>
 
