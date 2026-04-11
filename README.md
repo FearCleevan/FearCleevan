@@ -67,6 +67,10 @@ const peter = {
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
+| **RentApp** | Two-sided rental marketplace — renters book parking, rooms, vehicles, venues & more; hosts manage listings, bookings & earnings | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/rentapp) |
+| **Vyralyx** | Production-ready AI fitness app with real-time workout tracking, gamification, and game-like monetization | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/vyralyx-fitness-app) |
+| **PayUp** | Freelancer invoice app that auto-escalates payment reminders from friendly nudges to formal notices | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/Payup) |
+| **gooey-toast** | Morphing blob toast notifications — a full React Native UI library for Expo | React Native · TypeScript · MDX | [↗ Repo](https://github.com/FearCleevan/goey-toast-ui-library) |
 | **TechnoBuild V2** | E-commerce platform with AI-powered PC Builder using Gemini API | React · Firebase · Gemini | [↗ Demo](https://technobuild.vercel.app) |
 | **LP CRM System** | Full-stack CRM with RBAC for internal sales team management | React · Node.js · MySQL | [↗ Demo](https://crm.thelaunchpad.team) |
 | **LP Chat System** | Real-time company chat system with role-based access control | React · Firebase · Cloudinary | [↗ Demo](https://lpchat.thelaunchpadteam.com) |
@@ -74,7 +78,6 @@ const peter = {
 | **School Mgmt System** | Student/faculty management system with NoSQL backend | React · Firebase | [↗ Demo](https://samson-sms.vercel.app) |
 | **The Launchpad Site** | Company landing page with automated Google Sheets lead capture | React · Google Apps Script | [↗ Demo](https://www.thelaunchpadteam.com) |
 | **ScapeDBM Landing** | Landscaping services landing page with clean responsive design | React · CSS3 · Cloudinary | [↗ Demo](https://scape.vercel.app) |
-| **Rent App (Mobile)** | Cross-platform rental app built with React Native + Supabase | React Native · Supabase · Expo | [↗ Build](https://expo.dev/accounts/fearcleevans-organization/projects/rentapp/builds/55a89373-99d4-4176-8939-5c4fe9bf0a7a) |
 | **Personal Portfolio** | Developer portfolio with Firebase backend | React · Firebase | [↗ Demo](https://lazandev.vercel.app) |
 
 ---
