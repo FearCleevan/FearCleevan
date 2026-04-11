@@ -120,11 +120,6 @@ Samson Polytechnic College of Davao · 2021 – 2025
 
 <br/>
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FearCleevan&theme=github_dark" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FearCleevan&theme=github_dark&utcOffset=8" />
-
-<br/>
-
 <!-- Streak Stats - demolab is the most stable streak provider -->
 <img src="https://streak-stats.demolab.com?user=FearCleevan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff" />
 
