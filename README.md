@@ -70,6 +70,7 @@ const peter = {
 | **RentApp** | Two-sided rental marketplace — renters book parking, rooms, vehicles, venues & more; hosts manage listings, bookings & earnings | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/rentapp) |
 | **Vyralyx** | Production-ready AI fitness app with real-time workout tracking, gamification, and game-like monetization | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/vyralyx-fitness-app) |
 | **PayUp** | Freelancer invoice app that auto-escalates payment reminders from friendly nudges to formal notices | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/Payup) |
+| My AI Assistant | Your personal, fully local AI coding assistant — powered by Ollama, ChromaDB, and your own knowledge base. No subscriptions, no cloud, no data leaving your machine. | Python · HTML · TypeScript | [↗ Repo](https://github.com/FearCleevan/My-AI-Assistant) |
 | **gooey-toast** | Morphing blob toast notifications — a full React Native UI library for Expo | React Native · TypeScript · MDX | [↗ Repo](https://github.com/FearCleevan/goey-toast-ui-library) |
 | **TechnoBuild V2** | E-commerce platform with AI-powered PC Builder using Gemini API | React · Firebase · Gemini | [↗ Demo](https://technobuild.vercel.app) |
 | **LP CRM System** | Full-stack CRM with RBAC for internal sales team management | React · Node.js · MySQL | [↗ Demo](https://crm.thelaunchpad.team) |
