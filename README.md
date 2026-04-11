@@ -110,11 +110,11 @@ Samson Polytechnic College of Davao · 2021 – 2025
 
 <div align="center">
 
-![Peter Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=d2a8ff&text_color=e6edf3)
+![Peter Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearCleevan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=d2a8ff&text_color=e6edf3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FearCleevan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=FearCleevan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff)
 
 </div>
 
