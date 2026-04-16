@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:d2a8ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-# Peter Paul Lazan &nbsp;👋
+# Peter Paul A. Lazan &nbsp;👋
 ### `Full-Stack Developer` · `Mobile DevOps` · `IT Systems & Credential Admin`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+secure+web+%26+mobile+applications;React+%C2%B7+Node.js+%C2%B7+TypeScript+specialist;iOS+%26+Android+app+deployment+%E2%9C%A6;Open+to+freelance+%26+full-time+opportunities)](https://git.io/typing-svg)
