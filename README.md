@@ -67,6 +67,7 @@ const peter = {
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
+| **HRIS SaaS Platform** | An Enterprise-Grade Human Resource Information System (HRIS) SaaS | Next.js · TypeScript · Tailwind CSS + Module CSS · Shadcn/UI + Material UI (MUI) | [↗ Repo](https://github.com/FearCleevan/hris-saas-platform) |
 | **RentApp** | Two-sided rental marketplace — renters book parking, rooms, vehicles, venues & more; hosts manage listings, bookings & earnings | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/rentapp) |
 | **Vyralyx** | Production-ready AI fitness app with real-time workout tracking, gamification, and game-like monetization | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/vyralyx-fitness-app) |
 | **PayUp** | Freelancer invoice app that auto-escalates payment reminders from friendly nudges to formal notices | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/Payup) |
