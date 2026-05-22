@@ -87,7 +87,10 @@ const peter = {
 ## 💼 Experience
 
 ```
-🔐  IT Systems & Credential Administrator     Poseidon Distribution OPC     Dec 2025 – Present
+💻  Web Developer     SixEleven BPO     May 2026 – Present
+    Web Development · ECommerce Development · Vercel · Next.js · Shopify · Sanity
+
+🔐  IT Systems & Credential Administrator     Poseidon Distribution OPC     Dec 2025 – Apr 2026
     Mobile DevOps (iOS & Android) · Supabase · CI/CD · Credential Security · Plane.so
 
 💻  Web Developer / IT Support Specialist     The Launchpad Inc              Feb 2025 – Dec 2025
