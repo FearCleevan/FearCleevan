@@ -4,13 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:d2a8ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
 # Peter Paul A. Lazan &nbsp;👋
-### `Full-Stack Developer` · `Mobile DevOps` · `IT Systems & Credential Admin`
+### `Full-Stack Developer` · `Headless Commerce` · `Mobile DevOps`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+secure+web+%26+mobile+applications;React+%C2%B7+Node.js+%C2%B7+TypeScript+specialist;iOS+%26+Android+app+deployment+%E2%9C%A6;Open+to+freelance+%26+full-time+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-stack+dev+for+Canadian+%26+US+clients;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Shopify;Headless+commerce+%2B+CMS-driven+sites;Open+to+freelance+%26+full-time+opportunities)](https://git.io/typing-svg)
 
 📍 Davao City, Philippines &nbsp;·&nbsp; 📧 jonathan.mauring17@gmail.com &nbsp;·&nbsp; 📱 09515379127
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lazandev.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://lazandev.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-FearCleevan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FearCleevan)
 [![Email](https://img.shields.io/badge/Email-jonathan.mauring17@gmail.com-d2a8ff?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathan.mauring17@gmail.com)
 
 </div>
@@ -21,74 +22,103 @@
 
 ```ts
 const peter = {
-  role     : ["Full-Stack Developer", "Mobile DevOps", "IT Systems & Credential Admin"],
-  location : "Davao City 🇵🇭",
-  stack    : ["React", "Node.js", "TypeScript", "MySQL", "Supabase", "Firebase"],
-  mobile   : ["React Native", "Expo EAS", "App Store Connect", "Google Play Console"],
-  security : ["RBAC", "2FA/MFA", "Credential Rotation", "RLS Policies"],
-  status   : "Open to freelance & full-time roles 🚀",
+  role      : ["Full-Stack Developer", "Headless Commerce Engineer", "Mobile DevOps"],
+  location  : "Davao City 🇵🇭",
+  shift     : "Graveyard (9PM–6AM) — primary dev for Canadian clients",
+  frontend  : ["Next.js 14 (App Router)", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
+  backend   : ["Supabase (Postgres)", "Node.js", "FastAPI", "Python"],
+  commerce  : ["Shopify Headless", "Shopify Admin API", "Sanity CMS"],
+  mobile    : ["React Native", "Expo", "App Store Connect", "Google Play Console"],
+  deploy    : ["Vercel", "GitHub Actions"],
+  status    : "Open to freelance & full-time roles 🚀",
 };
 ```
 
-> Full-Stack Web Developer, Mobile App DevOps, and IT Systems Administrator with hands-on experience building secure, responsive, and data-driven systems. Security-first mindset. Always shipping. ✦
+> Full-stack web developer specializing in Next.js + Supabase builds and headless Shopify commerce, with a documentation-first, phase-gated workflow — implementation plans before code, one phase at a time. ✦
 
 ---
 
 ## ⚡ Tech Stack
 
 #### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-#### Backend & Databases
+#### State, Forms & Data
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
+
+#### Backend, Commerce & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Admin_API-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 #### Cloud, DevOps & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Latest Work — SixEleven (Client Projects)
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| **HRIS SaaS Platform** | An Enterprise-Grade Human Resource Information System (HRIS) SaaS | Next.js · TypeScript · Tailwind CSS + Module CSS · Shadcn/UI + Material UI (MUI) | [↗ Repo](https://github.com/FearCleevan/hris-saas-platform) |
-| **RentApp** | Two-sided rental marketplace — renters book parking, rooms, vehicles, venues & more; hosts manage listings, bookings & earnings | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/rentapp) |
-| **Vyralyx** | Production-ready AI fitness app with real-time workout tracking, gamification, and game-like monetization | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/vyralyx-fitness-app) |
-| **PayUp** | Freelancer invoice app that auto-escalates payment reminders from friendly nudges to formal notices | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/Payup) |
-| My AI Assistant | Your personal, fully local AI coding assistant — powered by Ollama, ChromaDB, and your own knowledge base. No subscriptions, no cloud, no data leaving your machine. | Python · HTML · TypeScript | [↗ Repo](https://github.com/FearCleevan/My-AI-Assistant) |
-| **gooey-toast** | Morphing blob toast notifications — a full React Native UI library for Expo | React Native · TypeScript · MDX | [↗ Repo](https://github.com/FearCleevan/goey-toast-ui-library) |
-| **TechnoBuild V2** | E-commerce platform with AI-powered PC Builder using Gemini API | React · Firebase · Gemini | [↗ Demo](https://technobuild.vercel.app) |
-| **LP CRM System** | Full-stack CRM with RBAC for internal sales team management | React · Node.js · MySQL | [↗ Demo](https://crm.thelaunchpad.team) |
-| **LP Chat System** | Real-time company chat system with role-based access control | React · Firebase · Cloudinary | [↗ Demo](https://lpchat.thelaunchpadteam.com) |
-| **Project Manager** | Internal task & sprint management with Figma-driven tickets | Next.js · TypeScript · Tailwind | [↗ Demo](https://projectmanagement-smoky.vercel.app/login) |
-| **School Mgmt System** | Student/faculty management system with NoSQL backend | React · Firebase | [↗ Demo](https://samson-sms.vercel.app) |
-| **The Launchpad Site** | Company landing page with automated Google Sheets lead capture | React · Google Apps Script | [↗ Demo](https://www.thelaunchpadteam.com) |
-| **ScapeDBM Landing** | Landscaping services landing page with clean responsive design | React · CSS3 · Cloudinary | [↗ Demo](https://scape.vercel.app) |
-| **Personal Portfolio** | Developer portfolio with Firebase backend | React · Firebase | [↗ Demo](https://lazandev.vercel.app) |
+| **ACME Vintage Supply** | Headless Shopify + Next.js admin dashboard with live Shopify data, order/fulfillment sync, and a custom shipment timeline | Next.js · TypeScript · Shopify Admin API · Tailwind | [↗ Live](https://acmevintagesupply.com) |
+| **FRASCO Industrial Inspections** | Full Next.js rebuild — Security Headers Grade A, documented 12-phase frontend / 7-phase backend plan | Next.js · TypeScript · Tailwind | [↗ Live](https://frasco-sage.vercel.app) |
+| **ACME Sign & Graphics** | Aqua-inspired site redesign — approved prototype, in active development | Next.js · TypeScript · Tailwind | *In progress* |
+
+## 🛠 Personal & Freelance Projects
+
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **Brisk CRM** | Self-built B2B outreach CRM — 51,800+ prospects, email campaigns, custom export tooling | React 18 · TypeScript · Vite · Supabase · shadcn/ui | [↗ Live](https://brisk-crm.vercel.app) |
+| **HRIS SaaS Platform** | Enterprise-grade HR Information System for the Philippine market | Next.js · TypeScript · Tailwind · shadcn/ui + MUI | [↗ Repo](https://github.com/FearCleevan/hris-saas-platform) · [↗ Live](https://hrisph.vercel.app) |
+| **RentApp** | Two-sided rental marketplace — parking, rooms, vehicles, venues | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/rentapp) |
+| **Vyralyx** | AI fitness app with real-time tracking and gamified monetization | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/vyralyx-fitness-app) |
+| **PayUp** | Freelancer invoicing app that auto-escalates payment reminders | React Native · Expo · Supabase | [↗ Repo](https://github.com/FearCleevan/Payup) |
+| **gooey-toast** | React Native UI library — morphing blob toast notifications | React Native · TypeScript · MDX | [↗ Repo](https://github.com/FearCleevan/goey-toast-ui-library) |
+| **My AI Assistant** | Fully local AI coding assistant — Ollama, ChromaDB, zero cloud | Python · TypeScript | [↗ Repo](https://github.com/FearCleevan/My-AI-Assistant) |
+| **TechnoBuild V2** | E-commerce platform with AI-powered PC Builder (Gemini API) | React · Firebase · Gemini | [↗ Demo](https://technobuild.vercel.app) |
+| **Personal Portfolio** | Developer portfolio site | Next.js · TypeScript · Tailwind | [↗ Live](https://lazandev.vercel.app) |
+
+<details>
+<summary><b>Earlier Projects (Launchpad era)</b></summary>
+
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **LP CRM System** | Full-stack CRM with RBAC for internal sales team | React · Node.js · MySQL | [↗ Demo](https://crm.thelaunchpad.team) |
+| **LP Chat System** | Real-time company chat with role-based access | React · Firebase · Cloudinary | [↗ Demo](https://lpchat.thelaunchpadteam.com) |
+| **Project Manager** | Internal task & sprint management | Next.js · TypeScript · Tailwind | [↗ Demo](https://projectmanagement-smoky.vercel.app/login) |
+| **School Mgmt System** | Student/faculty management system | React · Firebase | [↗ Demo](https://samson-sms.vercel.app) |
+| **The Launchpad Site** | Company landing page w/ automated lead capture | React · Google Apps Script | [↗ Demo](https://www.thelaunchpadteam.com) |
+| **ScapeDBM Landing** | Landscaping services landing page | React · CSS3 · Cloudinary | [↗ Demo](https://scape.vercel.app) |
+
+</details>
 
 ---
 
 ## 💼 Experience
 
 ```
-💻  Web Developer     SixEleven BPO                                          May 2026 – Present
-    Web Development · ECommerce Development · Vercel · Next.js · Shopify · Sanity
+💻  Full-Stack Developer       SixEleven Global Services and Solutions       May 2026 – Present
+    Davao City · Graveyard shift (9PM–6AM) · Primary dev for Canadian clients
+    Next.js · React · TypeScript · Tailwind · Supabase · Vercel · Shopify Headless · Sanity CMS
 
 🔐  IT Systems & Credential Administrator     Poseidon Distribution OPC      Dec 2025 – Apr 2026
     Mobile DevOps (iOS & Android) · Supabase · CI/CD · Credential Security · Plane.so
@@ -118,7 +148,6 @@ Samson Polytechnic College of Davao · 2021 – 2025
 
 <div align="center">
 
-<!-- GitHub Stats - uses github-stats.vercel.app (more reliable) -->
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FearCleevan&theme=github_dark" />
 
 <br/>
@@ -128,7 +157,6 @@ Samson Polytechnic College of Davao · 2021 – 2025
 
 <br/>
 
-<!-- Streak Stats - demolab is the most stable streak provider -->
 <img src="https://streak-stats.demolab.com?user=FearCleevan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff" />
 
 </div>
