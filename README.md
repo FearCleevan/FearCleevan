@@ -10,7 +10,7 @@
 
 📍 Davao City, Philippines &nbsp;·&nbsp; 📧 jonathan.mauring17@gmail.com &nbsp;·&nbsp; 📱 09515379127
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lazandev.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://www.peterpaullazan.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-peterpaullazan.com-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://www.peterpaullazan.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FearCleevan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FearCleevan)
 [![Email](https://img.shields.io/badge/Email-jonathan.mauring17@gmail.com-d2a8ff?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathan.mauring17@gmail.com)
 
