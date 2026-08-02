@@ -8,11 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-stack+dev+for+Canadian+%26+US+clients;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Shopify;Headless+commerce+%2B+CMS-driven+sites;Open+to+freelance+%26+full-time+opportunities)](https://git.io/typing-svg)
 
-📍 Davao City, Philippines &nbsp;·&nbsp; 📧 jonathan.mauring17@gmail.com &nbsp;·&nbsp; 📱 09515379127
+📍 Davao City, Philippines &nbsp;·&nbsp; 📧 peter@peterpaullazan.com &nbsp;·&nbsp; 📱 09515379127
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-peterpaullazan.com-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://www.peterpaullazan.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FearCleevan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FearCleevan)
-[![Email](https://img.shields.io/badge/Email-jonathan.mauring17@gmail.com-d2a8ff?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathan.mauring17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-peter@peterpaullazan.com-d2a8ff?style=flat-square&logo=gmail&logoColor=white)](mailto:peter@peterpaullazan.com)
 
 </div>
 
